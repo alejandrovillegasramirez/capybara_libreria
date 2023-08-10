@@ -11,9 +11,6 @@ Este proyecto de web de una librería fué presentado como trabajo final para la
 ## Ejecución 
 Ejecutar el HTML junto con el CSS y el logo
 
-## Web del proyecto
-[Proyecto](https://alejandrovillegasramirez.github.io/juego-con-pygame/)
-
 ## Contacto
 alejandrovillegasramirez@gmail.com\
 luis10bastidas@gmail.com
