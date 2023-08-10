@@ -6,7 +6,7 @@ Luis Fernando Bastidas Ramirez
 Juan Jeronimo Caldas\
 Alejandro Villegas Ramirez\ Monica Alejandra Largo 
 
-- [LinkedIn](https://www.linkedin.com/in/alejandrovillegasramirez) 
+Alejandro Villegas Ramirez - [LinkedIn](https://www.linkedin.com/in/alejandrovillegasramirez) 
 - [LinkedIn](https://www.linkedin.com/in/monica-alejandra-largo-calvo-081b79253/)
 - [LinkedIn](https://www.linkedin.com/in/luis-bastidas-0b36781a6/) 
 
