@@ -3,9 +3,8 @@ Este proyecto de web de una librería fué presentado como trabajo final para la
 
 ## Autores
 Luis Fernando Bastidas Ramirez  
-Juan Jeronimo Caldas
-Alejandro Villegas Ramirez 
-Monica Alejandra Largo 
+Juan Jeronimo Caldas\
+Alejandro Villegas Ramirez\ Monica Alejandra Largo 
 
 - [LinkedIn](https://www.linkedin.com/in/alejandrovillegasramirez) 
 - [LinkedIn](https://www.linkedin.com/in/monica-alejandra-largo-calvo-081b79253/)
